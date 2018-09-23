@@ -4,7 +4,7 @@ Keyman Third Party Package Readme: Cef4Delphi
 Name:              Cef4Delphi
 Purpose:           Provides embedded Chromium browser
 Source:            https://github.com/keymanapp/CEF4Delphi
-Version:           06/28/2018 - CEF 3.3396.1782.gc368dbf / Chromium 67.0.3396.79
+Version:           09/23/2018 - CEF 3.3497.1831.g461fa1f / Chromium 69.0.3497.100
 License:           Mozilla Public License 1.1 (MIT compatible)
 Updated for:       N/A
 Documentation:     https://www.briskbard.com/index.php?lang=en&pageid=cef
